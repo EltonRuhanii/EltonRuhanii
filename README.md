@@ -2,6 +2,6 @@
 - 👀 I’m interested in iOS Development internship in Prishtina
 - 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me: 
-  - https://www.linkedin.com/in/elton-ruhani-232127242/ 
+  - https://www.linkedin.com/in/elton-ruhani 
   - eltonruhani01@gmail.com 
   - +383 49 532-797
